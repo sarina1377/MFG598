@@ -31,3 +31,5 @@ Execution of the scripts will yield:
 - Confusion Matrix: Visual representation of the model's predictive accuracy.
 - Vegetation Percentage: The determined proportion of vegetation in the validation image.
 
+### Video Demonstraion
+https://youtu.be/CdNx44bIzA0
